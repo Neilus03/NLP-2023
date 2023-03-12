@@ -21,5 +21,7 @@ https://github.com/Neilus03/NLP-2023/blob/main/NLP_Probelms2.ipynb
 
 #### Description of exercises:
 
+1-6: Experiment with tree parsing in Context free grammars, both probabilistic and non-probabilistic
+
 #### Notebook:
 https://github.com/Neilus03/NLP-2023/blob/main/Python_for_NLP.ipynb
