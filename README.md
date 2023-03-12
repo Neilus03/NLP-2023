@@ -5,7 +5,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 
 ### 1. Basic-Text-Processing-Exercises:
 
-Description of exercises:
+#### Description of exercises:
 
 1, 2: RegEx
 
@@ -14,13 +14,12 @@ Description of exercises:
 6: ELIZA with regEx
 
 #### Notebook:
-https://github.com/Neilus03/Basic-Text-Processing-Exercises/blob/main/NLP_Probelms2.ipynb
+https://github.com/Neilus03/NLP-2023/blob/main/NLP_Probelms2.ipynb
 
 
 ### 2. Introduction to nltk. basic python for NLP.
 
-Description of exercises:
+#### Description of exercises:
 
 #### Notebook:
-https://github.com/Neilus03/Basic-Text-Processing-Exercises/blob/main/Python_for_NLP.ipynb
-
+https://github.com/Neilus03/NLP-2023/blob/main/Python_for_NLP.ipynb
