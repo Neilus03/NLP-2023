@@ -21,4 +21,6 @@ https://github.com/Neilus03/Basic-Text-Processing-Exercises/blob/main/NLP_Probel
 
 Description of exercises:
 
+#### Notebook:
+https://github.com/Neilus03/Basic-Text-Processing-Exercises/blob/main/Python_for_NLP.ipynb
 
