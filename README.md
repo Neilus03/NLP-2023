@@ -13,9 +13,12 @@ Description of exercises:
 
 6: ELIZA with regEx
 
+#### Notebook:
 https://github.com/Neilus03/Basic-Text-Processing-Exercises/blob/main/NLP_Probelms2.ipynb
 
 
 ### 2. Introduction to nltk. basic python for NLP.
 
 Description of exercises:
+
+
