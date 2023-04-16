@@ -29,7 +29,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 ### 3. Simple language models & Language modeling with pytorch
 
 Simple language models: ngrams, MLE, laplace, stupid backoff
-
+https://github.com/Neilus03/NLP-2023/blob/main/Simple_language_models.ipynb
 
 
 ### 4. Sequence Labelling
