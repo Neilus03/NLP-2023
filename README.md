@@ -32,7 +32,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 
 [Simple language models: ngrams, MLE, laplace, stupid backoff](https://github.com/Neilus03/NLP-2023/blob/main/Simple_language_models.ipynb)
 
-[Neural language models (NNLM)](https://github.com/Neilus03/NLP-2023/blob/main/Neural_language_models.ipynb)
+[Neural language models (NNLM)](https://github.com/Neilus03/NLP-2023/blob/main/Neural_language_model.ipynb)
 
 
 
