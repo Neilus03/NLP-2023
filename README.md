@@ -26,7 +26,9 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 #### Notebook:
 [NLTK library](https://github.com/Neilus03/NLP-2023/blob/main/Python_for_NLP.ipynb) 
 
-### 3. Language modeling with pytorch
+### 3. Simple language models & Language modeling with pytorch
+
+Simple language models: ngrams, MLE, laplace, stupid backoff
 
 
 
