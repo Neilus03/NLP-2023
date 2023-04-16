@@ -14,7 +14,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 6: ELIZA with regEx
 
 #### Notebook:
-[Intro to NLP](https://github.com/Neilus03/NLP-2023/blob/main/Intro_to_NLP.ipynb)
+[Introduction to NLP](https://github.com/Neilus03/NLP-2023/blob/main/Intro_to_NLP.ipynb)
 
 
 ### 2. Introduction to nltk. basic python for NLP.
