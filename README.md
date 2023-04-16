@@ -14,7 +14,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 6: ELIZA with regEx
 
 #### Notebook:
-https://github.com/Neilus03/NLP-2023/blob/main/NLP_Probelms2.ipynb
+[Intro to NLP](https://github.com/Neilus03/NLP-2023/blob/main/Intro_to_NLP.ipynb)
 
 
 ### 2. Introduction to nltk. basic python for NLP.
@@ -24,8 +24,10 @@ https://github.com/Neilus03/NLP-2023/blob/main/NLP_Probelms2.ipynb
 1-6: Experiment with tree parsing in Context free grammars, both probabilistic and non-probabilistic
 
 #### Notebook:
-https://github.com/Neilus03/NLP-2023/blob/main/Python_for_NLP.ipynb
+[NLTK library](https://github.com/Neilus03/NLP-2023/blob/main/Python_for_NLP.ipynb) 
 
 ### 3. Language modeling with pytorch
+
+
 
 ### 4. Sequence Labelling
