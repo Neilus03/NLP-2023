@@ -11,7 +11,7 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 
 3, 4, 5: Minimum Edit Distance
 
-6: ELIZA with regEx
+6: ELIZA with regEx 
 
 #### Notebook:
 [Introduction to NLP](https://github.com/Neilus03/NLP-2023/blob/main/Intro_to_NLP.ipynb).  
