@@ -40,3 +40,6 @@ A series of notebooks that constitute the coding assignments for Natural Languag
 [Sequence labeling and NER with a simple baseline algorithm](https://github.com/Neilus03/NLP-2023/blob/main/NER_and_Sequence_Labeling_Simple_Baseline.ipynb)
 
 [Sequence labeling and NER with HiddenMarkov Models (HMM) and Conditional Random Fields (CRF)](https://github.com/Neilus03/NLP-2023/blob/main/HMM_and_CRF_for_Seq_Labeling_and_NER.ipynb)
+
+### 5. Vector Space models (PMI, PPMI, LSA...)
+[Vector Space models full notebook](https://github.com/Neilus03/NLP-2023/blob/main/vector_space_model_Neil.ipynb)
